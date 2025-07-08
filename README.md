@@ -13,7 +13,7 @@ This Power BI project compares the performance of Netflix and Amazon Prime from 
 - Conditional formatting and storytelling elements
 
 ## Files
-- `Netflix_vs_AmazonPrime_Dashboard.pbix`: Main Power BI file
+- `NVP.pbix`: Main Power BI file
 
 ## Author
 Shravani Gawade
